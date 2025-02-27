@@ -1,0 +1,3 @@
+Student #1   Avg Grade: 1   Assignments: 4
+Student #2   Avg Grade: 1   Assignments: 5
+Student #3   Avg Grade: 1   Assignments: 7

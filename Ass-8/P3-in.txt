@@ -1,0 +1,3 @@
+The apple is on the table.
+A quick brown fox jumps over.
+This sentence does not contain an a word.
